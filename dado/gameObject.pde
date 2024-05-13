@@ -10,6 +10,6 @@ class GameObject {
   }
 
   void dibujar() {
-    // Implementación de dibujar específica para cada subclase
+
   }
 }
