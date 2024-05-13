@@ -1,5 +1,5 @@
 class Board {
-  // Implementación del tablero, si es necesario
+
 }
 
 Dado dado;
